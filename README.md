@@ -5,10 +5,10 @@
 - **24/7 Online**
 - **Slash Command**
 ## Install Bot
-- [**Replit**](https://replit.com/github/Hotaro9015/)
+- [**Replit**](https://replit.com/github/Hotaro9015/Ticket-Bot)
 ## Uptime Your Bot
 - [**Website**](https://uptimerobot.com/)
-- [**Tutorial**](https://youtube.com/)
+- [**Tutorial**](https://youtu.be/-5ptk-Klfcw)
 ## How To Install
 1. **Go To Shell**
 2. **Type "npm install" Enter**
@@ -20,7 +20,7 @@
 6. **Click Add New Secret**
 7. **Click Run**
 8. **Enjoy You Bot**
-## Bug & Masalah Menginstal
-- **Kesusahan Dalam Menginstal Bot?**
+## Bug & Problems Installing
+- **Trouble Installing Bots?**
 - **Dm Hōtarō Oreki#9015**
 - **Or [Join To Server](https://dsc.gg/nezuko-cm)**
